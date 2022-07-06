@@ -1,2 +1,2 @@
 # Msg-Delete
-This tools it's for see a delete messages from telegram channel 
+This tools it's to see a delete messages from telegram channel 
